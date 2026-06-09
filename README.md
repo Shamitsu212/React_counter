@@ -16,6 +16,6 @@
 
 ## 🖼️ Превью макетов
 
-Cсылка - https://shamitsu212.github.io//React_counter
+Cсылка - https://shamitsu212.github.io/React_counter
 
 ---
